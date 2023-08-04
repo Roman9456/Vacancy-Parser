@@ -56,3 +56,7 @@ if __name__ == "__main__":
         json.dump(vacancies, file, indent=2, ensure_ascii=False)
 
     print("Vacancies have been successfully parsed and saved to vacancies.json.")
+
+        json.dump(vacancies, file, indent=2, ensure_ascii=False)
+
+    print("Vacancies have been successfully parsed and saved to vacancies.json.")
